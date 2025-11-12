@@ -2,4 +2,8 @@ Este é o exemplo de um ficheiro de texto
 
 Alteração do ficheiro
 
+
 ALTERAÇÕES EM NOVAFEATURE
+
+ALTERAÇÃO EM MASTER
+
